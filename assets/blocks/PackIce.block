@@ -3,9 +3,6 @@
  *
  * It takes the flags of Ice rather than a template, because what matters about
  * ice is that one slides on it and sees through it, and no template says that.
- *
- * TODO texture — a copy of Stone for now. Pack ice should be white shot through
- * with the dark lines of the leads between plates.
  */
 {
     "ice": true,

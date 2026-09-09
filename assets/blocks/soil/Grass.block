@@ -13,7 +13,7 @@
         // "tiles" being present means we'll override some with a different graphic
         "sides": "CoreAssets:GrassSide",
         // sides means all four (not top/bottom) and can itself be overridden
-        "bottom": "CoreAssets:Dirt"
+        "bottom": "CoreAssets:GrassBottom"
         // Since we add all images to the same map we don't need to worry about dir levels
     },
     // Works as an Enum :-)

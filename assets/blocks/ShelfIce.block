@@ -4,9 +4,6 @@
  *
  * The two caps are not symmetrical, and this is the material that carries the
  * southern half of that claim.
- *
- * TODO texture — a copy of Stone for now. Shelf ice should be a flatter, bluer
- * white than pack ice, with no fracture lines: it is one slab, not many.
  */
 {
     "ice": true,

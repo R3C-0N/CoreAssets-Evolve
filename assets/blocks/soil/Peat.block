@@ -1,8 +1,5 @@
 /**
  * Peat is the ground of a swamp: waterlogged, half-rotted plant matter.
- *
- * TODO texture — a copy of Stone for now. Peat should be very dark brown and
- * fibrous, wetter-looking than dirt.
  */
 {
     "basedOn": "CoreAssets:soil",

@@ -1,8 +1,5 @@
 /**
  * Basalt is what a lava sea cools into: the rock under a volcanic region.
- *
- * TODO texture — a copy of Stone for now. Basalt should be near-black, with a
- * coarse, blocky grain; it is meant to read as a different world from granite.
  */
 {
     "basedOn": "CoreAssets:rock2",
