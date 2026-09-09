@@ -1,0 +1,10 @@
+/**
+ * Nothing here says where the tiles go. Tnt.png takes the four sides, TntTop.png the top and
+ * TntBottom.png the underside, all three found by name - the whole point of the convention.
+ */
+{
+    "basedOn": "CoreAssets:rock",
+    "displayName": "TNT",
+    "hardness": 1,
+    "mass": 45
+}

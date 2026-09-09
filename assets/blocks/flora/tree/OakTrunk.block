@@ -6,10 +6,6 @@
  */
 {
     "basedOn": "CoreAssets:wood",
-    "displayName": "Oak Log",
-    // Graphics
-    "tile": "CoreAssets:OakBark",
-    "tiles": {
-        "topBottom": "CoreAssets:OakTrunk"
-    }
+    "displayName": "Oak Log"
+    // Graphics: OakTrunkSides.png and OakTrunkTopBottom.png, found by name
 }

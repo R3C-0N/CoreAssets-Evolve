@@ -1,21 +1,11 @@
 /**
- * Grass is a little more interesting as its tiles differ.
- * Only need to indicate the top face because it is in a different module (CoreAssets)
- * If "tiles" wasn't present Block would simply assume all the faces are the same
- * and that the appropriate image file to use equals the Block name + .png (in the same mod)
+ * Grass is a little more interesting as its tiles differ, but it no longer has to say so:
+ * Grass.png covers the top, GrassSides.png the four sides and GrassBottom.png the underside,
+ * each picked up from its name. Only the colouring is left to declare.
  */
 {
     "basedOn": "CoreAssets:soil",
     "grass": true,
-    // Graphics
-    "tile": "CoreAssets:Grass",
-    "tiles": {
-        // "tiles" being present means we'll override some with a different graphic
-        "sides": "CoreAssets:GrassSide",
-        // sides means all four (not top/bottom) and can itself be overridden
-        "bottom": "CoreAssets:GrassBottom"
-        // Since we add all images to the same map we don't need to worry about dir levels
-    },
     // Works as an Enum :-)
     "colorSource": "color_lut",
     "colorSources": {

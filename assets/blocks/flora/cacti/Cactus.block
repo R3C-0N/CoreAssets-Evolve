@@ -5,11 +5,6 @@
 {
     "shape": "CoreAssets:cactus",
     "categories": ["wood"],
-    "tile": "CoreAssets:Cactus",
-    "tiles": {
-        "top": "CoreAssets:CactusTop",
-        "bottom": "CoreAssets:CactusBottom"
-    },
     "hardness": 6,
     "mass": 40,
     "translucent": true
