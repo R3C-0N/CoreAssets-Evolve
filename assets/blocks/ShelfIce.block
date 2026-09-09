@@ -1,0 +1,18 @@
+/**
+ * The ice shelf of the southern cap: one floating slab of even thickness, which
+ * ends in a straight cliff over the sea.
+ *
+ * The two caps are not symmetrical, and this is the material that carries the
+ * southern half of that claim.
+ *
+ * TODO texture — a copy of Stone for now. Shelf ice should be a flatter, bluer
+ * white than pack ice, with no fracture lines: it is one slab, not many.
+ */
+{
+    "ice": true,
+    "translucent": true,
+    "hardness": 1,
+    "friction": 0.00001,
+    "displayName": "Shelf Ice",
+    "tile": "CoreAssets:ShelfIce"
+}

@@ -1,0 +1,16 @@
+/**
+ * Blight is peat that has gone further: the surface of a miasmic swamp.
+ *
+ * A miasmic swamp is not a poisoned swamp — it is a region of its own, and this
+ * is the material that says so at a glance.
+ *
+ * TODO texture — a copy of Stone for now. Blight should be a sickly
+ * yellow-green over dark brown, and it is the material most in need of its own
+ * art: the whole point of the region is that one can see it from the next one
+ * over.
+ */
+{
+    "basedOn": "CoreAssets:soil",
+    "displayName": "Blight",
+    "tile": "CoreAssets:Blight"
+}

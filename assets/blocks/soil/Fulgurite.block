@@ -1,0 +1,14 @@
+/**
+ * Fulgurite is sand a lightning strike has fused into glass: the surface of an
+ * unstable-magic region, where the lightning is the region.
+ *
+ * Filed under rock rather than soil on purpose — it is fused, not loose.
+ *
+ * TODO texture — a copy of Stone for now. Fulgurite should be glassy and
+ * branching, darker than the sand it came from.
+ */
+{
+    "basedOn": "CoreAssets:rock",
+    "displayName": "Fulgurite",
+    "tile": "CoreAssets:Fulgurite"
+}

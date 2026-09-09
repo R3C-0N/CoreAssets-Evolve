@@ -1,0 +1,12 @@
+/**
+ * Ash is the surface of a volcanic region — what falls back down after a sea of
+ * lava has been there.
+ *
+ * TODO texture — a copy of Stone for now. Ash should be a fine, uniform grey,
+ * with no visible structure at all: it is the flattest material of the set.
+ */
+{
+    "basedOn": "CoreAssets:soil",
+    "displayName": "Ash",
+    "tile": "CoreAssets:Ash"
+}

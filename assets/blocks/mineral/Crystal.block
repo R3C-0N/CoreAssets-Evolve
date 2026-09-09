@@ -1,0 +1,12 @@
+/**
+ * Crystal is the rock of an unstable-magic region.
+ *
+ * TODO texture — a copy of Stone for now. Crystal should be facetted and pale
+ * violet, and it is the one new material that will likely want a luminance of
+ * its own once it looks like anything.
+ */
+{
+    "basedOn": "CoreAssets:rock2",
+    "displayName": "Crystal",
+    "tile": "CoreAssets:Crystal"
+}
