@@ -24,6 +24,14 @@
         "RawDiamond", "VoidShard", "MithrilIngot", "OrichalcumIngot", "AdamantineIngot",
         "EtheriumMithrilIngot", "EtheriumOrichalcumIngot", "EtheriumAdamantineIngot"
       ]
+    },
+    {
+      "tileSize": [16, 16],
+      "gridDimensions": [8, 1],
+      "gridOffset": [0, 144],
+      "tileNames": [
+        "Stick", "Rope", "", "", "", "", "", ""
+      ]
     }
   ]
 }
