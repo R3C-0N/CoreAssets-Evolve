@@ -3,6 +3,6 @@
  */
 {
     "basedOn": "CoreAssets:wood",
-    "displayName": "Plank",
+    "displayName": "Planche",
     "tile": "CoreAssets:Plank"
 }

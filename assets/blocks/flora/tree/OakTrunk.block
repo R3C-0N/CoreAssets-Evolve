@@ -6,6 +6,6 @@
  */
 {
     "basedOn": "CoreAssets:wood",
-    "displayName": "Oak Log"
+    "displayName": "Tronc de chêne"
     // Graphics: OakTrunkSides.png and OakTrunkTopBottom.png, found by name
 }
