@@ -4,6 +4,6 @@
  */
 {
     "basedOn": "CoreAssets:rock",
-    "displayName": "Cobble Stone",
+    "displayName": "Pavé",
     "tile": "CoreAssets:CobbleStone"
 }

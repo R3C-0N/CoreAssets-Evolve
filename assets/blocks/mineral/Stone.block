@@ -3,5 +3,6 @@
  */
 {
     "basedOn": "CoreAssets:rock",
-    "tile": "CoreAssets:Stone"
+    "tile": "CoreAssets:Stone",
+    "displayName": "Pierre"
 }

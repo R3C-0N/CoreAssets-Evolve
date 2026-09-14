@@ -3,5 +3,9 @@
  */
 {
     "basedOn": "CoreAssets:soil",
-    "tile": "CoreAssets:Dirt"
+    "tile": "CoreAssets:Dirt",
+    "displayName": "Terre",
+    "entity": {
+        "prefab": "CoreAssets:DirtEntity"
+    }
 }

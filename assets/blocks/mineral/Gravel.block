@@ -6,5 +6,9 @@
 {
     "basedOn": "CoreAssets:soil",
     "sounds": "CoreAssets:gravel",
-    "tile": "CoreAssets:Gravel"
+    "tile": "CoreAssets:Gravel",
+    "displayName": "Gravier",
+    "entity": {
+        "prefab": "CoreAssets:GravelEntity"
+    }
 }

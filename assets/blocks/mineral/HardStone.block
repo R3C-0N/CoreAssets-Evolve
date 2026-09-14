@@ -3,5 +3,6 @@
  */
 {
     "basedOn": "CoreAssets:rock2",
-    "tile": "CoreAssets:HardStone"
+    "tile": "CoreAssets:HardStone",
+    "displayName": "Pierre dure"
 }
