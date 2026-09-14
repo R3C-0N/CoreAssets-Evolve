@@ -1,0 +1,10 @@
+{
+    "parent": "engine:iconItem",
+    "DisplayName": {
+        "name": "Lapis-lazuli"
+    },
+    "Item": {
+        "icon": "CoreAssets:items#Lapis",
+        "stackId": "CoreAssets:Lapis"
+    }
+}

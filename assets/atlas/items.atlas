@@ -12,5 +12,18 @@
       "gooeysFist", "",
       "slimeBall", ""
     ]
-  }
+  },
+  "grids": [
+    {
+      "tileSize": [16, 16],
+      "gridDimensions": [8, 3],
+      "gridOffset": [0, 96],
+      "tileNames": [
+        "Fibre", "Flint", "Bone", "Hide", "RawMeat", "CopperIngot", "TinIngot", "BronzeIngot",
+        "IronIngot", "Coal", "SteelIngot", "TemperedSteelIngot", "Lapis", "Aquamarine", "Topaz", "Amber",
+        "RawDiamond", "VoidShard", "MithrilIngot", "OrichalcumIngot", "AdamantineIngot",
+        "EtheriumMithrilIngot", "EtheriumOrichalcumIngot", "EtheriumAdamantineIngot"
+      ]
+    }
+  ]
 }

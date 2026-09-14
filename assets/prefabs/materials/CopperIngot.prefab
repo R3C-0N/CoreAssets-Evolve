@@ -1,0 +1,10 @@
+{
+    "parent": "engine:iconItem",
+    "DisplayName": {
+        "name": "Lingot de cuivre"
+    },
+    "Item": {
+        "icon": "CoreAssets:items#CopperIngot",
+        "stackId": "CoreAssets:CopperIngot"
+    }
+}

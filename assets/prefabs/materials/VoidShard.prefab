@@ -1,0 +1,10 @@
+{
+    "parent": "engine:iconItem",
+    "DisplayName": {
+        "name": "Éclat du néant"
+    },
+    "Item": {
+        "icon": "CoreAssets:items#VoidShard",
+        "stackId": "CoreAssets:VoidShard"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "parent": "engine:iconItem",
+    "DisplayName": {
+        "name": "Os"
+    },
+    "Item": {
+        "icon": "CoreAssets:items#Bone",
+        "stackId": "CoreAssets:Bone"
+    }
+}

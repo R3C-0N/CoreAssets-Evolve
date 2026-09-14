@@ -1,0 +1,10 @@
+{
+    "parent": "engine:iconItem",
+    "DisplayName": {
+        "name": "Peau"
+    },
+    "Item": {
+        "icon": "CoreAssets:items#Hide",
+        "stackId": "CoreAssets:Hide"
+    }
+}
