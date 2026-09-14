@@ -1,0 +1,13 @@
+/**
+ * Decorative building block of Adamantine.
+ *
+ * TODO texture: Near-black metal with dark reflections and diamond micro-
+ * crystals. Engraved panels with a border. The tile is a tinted copy of
+ * Brick.
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "displayName": "Adamantine ouvragé",
+    "hardness": 45,
+    "tile": "CoreAssets:AdamantineOrnate"
+}

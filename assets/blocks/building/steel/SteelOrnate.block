@@ -1,0 +1,12 @@
+/**
+ * Decorative building block of Steel.
+ *
+ * TODO texture: Bright bluish steel, clean and even. Engraved panels with a
+ * border. The tile is a tinted copy of Brick.
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "displayName": "Acier ouvragé",
+    "hardness": 36,
+    "tile": "CoreAssets:SteelOrnate"
+}

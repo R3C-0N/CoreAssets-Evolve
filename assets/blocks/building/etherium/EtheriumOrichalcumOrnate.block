@@ -1,0 +1,12 @@
+/**
+ * Decorative building block of EtheriumOrichalcum.
+ *
+ * TODO texture: Etherium born of orichalcum: radiant gold with a white-hot
+ * core. Engraved panels with a border. The tile is a tinted copy of Brick.
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "displayName": "Étherium (orichalque) ouvragé",
+    "hardness": 55,
+    "tile": "CoreAssets:EtheriumOrichalcumOrnate"
+}

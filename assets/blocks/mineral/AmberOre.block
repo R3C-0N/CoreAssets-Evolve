@@ -1,0 +1,12 @@
+/**
+ * Amber: fossil sunlight, the other gem of orichalcum.
+ *
+ * TODO texture: Honey-coloured translucent nodules. The tile is a recoloured
+ * copy of CopperOre.
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "displayName": "Minerai d'ambre",
+    "hardness": 24,
+    "tile": "CoreAssets:AmberOre"
+}

@@ -1,0 +1,11 @@
+/**
+ * Hard stone cut into ashlar blocks.
+ *
+ * TODO texture: Squared hard stone with visible joints. The tile is
+ * HardStone with darkened joints.
+ */
+{
+    "basedOn": "CoreAssets:rock2",
+    "displayName": "Pierre dure taillée",
+    "tile": "CoreAssets:HardStoneCut"
+}

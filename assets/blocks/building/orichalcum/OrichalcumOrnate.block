@@ -1,0 +1,12 @@
+/**
+ * Decorative building block of Orichalcum.
+ *
+ * TODO texture: Incandescent copper-gold, as if still warm from the sun.
+ * Engraved panels with a border. The tile is a tinted copy of Brick.
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "displayName": "Orichalque ouvragé",
+    "hardness": 45,
+    "tile": "CoreAssets:OrichalcumOrnate"
+}

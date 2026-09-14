@@ -1,0 +1,12 @@
+/**
+ * Plain building block of Copper.
+ *
+ * TODO texture: Warm salmon-orange copper, freshly hammered. Riveted plates.
+ * The tile is a tinted copy of IronBar.
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "displayName": "Plaques de cuivre",
+    "hardness": 22,
+    "tile": "CoreAssets:CopperPlate"
+}

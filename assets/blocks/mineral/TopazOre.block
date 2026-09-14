@@ -1,0 +1,12 @@
+/**
+ * Topaz: steadies the solar fire at the heart of orichalcum.
+ *
+ * TODO texture: Warm yellow-orange crystals. The tile is a recoloured copy
+ * of CopperOre.
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "displayName": "Minerai de topaze",
+    "hardness": 24,
+    "tile": "CoreAssets:TopazOre"
+}

@@ -1,0 +1,13 @@
+/**
+ * Decorative building block of EtheriumAdamantine.
+ *
+ * TODO texture: Etherium born of adamantine: deep violet with a void-like
+ * shimmer. Engraved panels with a border. The tile is a tinted copy of
+ * Brick.
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "displayName": "Étherium (adamantine) ouvragé",
+    "hardness": 55,
+    "tile": "CoreAssets:EtheriumAdamantineOrnate"
+}

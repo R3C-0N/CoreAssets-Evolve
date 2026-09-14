@@ -1,0 +1,12 @@
+/**
+ * Plain building block of EtheriumOrichalcum.
+ *
+ * TODO texture: Etherium born of orichalcum: radiant gold with a white-hot
+ * core. Riveted plates. The tile is a tinted copy of IronBar.
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "displayName": "Plaques de étherium (orichalque)",
+    "hardness": 55,
+    "tile": "CoreAssets:EtheriumOrichalcumPlate"
+}

@@ -1,0 +1,12 @@
+/**
+ * Plain building block of Bronze.
+ *
+ * TODO texture: Dull golden-brown bronze, heavier and darker than copper.
+ * Riveted plates. The tile is a tinted copy of IronBar.
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "displayName": "Plaques de bronze",
+    "hardness": 26,
+    "tile": "CoreAssets:BronzePlate"
+}

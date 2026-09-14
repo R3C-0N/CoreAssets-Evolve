@@ -1,0 +1,12 @@
+/**
+ * Decorative building block of Mithril.
+ *
+ * TODO texture: Feather-light silver with a soft blue glow, never tarnished.
+ * Engraved panels with a border. The tile is a tinted copy of Brick.
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "displayName": "Mithril ouvragé",
+    "hardness": 45,
+    "tile": "CoreAssets:MithrilOrnate"
+}

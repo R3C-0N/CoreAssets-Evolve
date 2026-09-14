@@ -1,0 +1,12 @@
+/**
+ * Decorative building block of Bronze.
+ *
+ * TODO texture: Dull golden-brown bronze, heavier and darker than copper.
+ * Engraved panels with a border. The tile is a tinted copy of Brick.
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "displayName": "Bronze ouvragé",
+    "hardness": 26,
+    "tile": "CoreAssets:BronzeOrnate"
+}

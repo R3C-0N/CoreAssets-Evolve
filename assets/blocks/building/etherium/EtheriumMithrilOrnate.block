@@ -1,0 +1,12 @@
+/**
+ * Decorative building block of EtheriumMithril.
+ *
+ * TODO texture: Etherium born of mithril: pale cyan light running through
+ * silver. Engraved panels with a border. The tile is a tinted copy of Brick.
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "displayName": "Étherium (mithril) ouvragé",
+    "hardness": 55,
+    "tile": "CoreAssets:EtheriumMithrilOrnate"
+}

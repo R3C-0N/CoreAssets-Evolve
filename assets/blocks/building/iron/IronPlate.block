@@ -1,0 +1,12 @@
+/**
+ * Plain building block of Iron.
+ *
+ * TODO texture: Matte grey iron with dark forge scale. Riveted plates. The
+ * tile is a tinted copy of IronBar.
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "displayName": "Plaques de fer",
+    "hardness": 30,
+    "tile": "CoreAssets:IronPlate"
+}

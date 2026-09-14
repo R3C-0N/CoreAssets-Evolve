@@ -1,0 +1,12 @@
+/**
+ * Plain building block of Steel.
+ *
+ * TODO texture: Bright bluish steel, clean and even. Riveted plates. The
+ * tile is a tinted copy of IronBar.
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "displayName": "Plaques de acier",
+    "hardness": 36,
+    "tile": "CoreAssets:SteelPlate"
+}

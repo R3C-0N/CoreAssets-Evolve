@@ -1,0 +1,12 @@
+/**
+ * Lapis lazuli: the arcane resonance mithril is alloyed with.
+ *
+ * TODO texture: Deep blue flecks with golden pyrite specks. The tile is a
+ * recoloured copy of CopperOre.
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "displayName": "Minerai de lapis-lazuli",
+    "hardness": 24,
+    "tile": "CoreAssets:LapisOre"
+}

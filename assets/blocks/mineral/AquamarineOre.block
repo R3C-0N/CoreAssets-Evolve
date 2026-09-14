@@ -1,0 +1,12 @@
+/**
+ * Aquamarine: purity and magical buoyancy, the other gem of mithril.
+ *
+ * TODO texture: Translucent sea-green crystals in the stone. The tile is a
+ * recoloured copy of CopperOre.
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "displayName": "Minerai d'aigue-marine",
+    "hardness": 24,
+    "tile": "CoreAssets:AquamarineOre"
+}

@@ -1,0 +1,12 @@
+/**
+ * Plain building block of EtheriumMithril.
+ *
+ * TODO texture: Etherium born of mithril: pale cyan light running through
+ * silver. Riveted plates. The tile is a tinted copy of IronBar.
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "displayName": "Plaques de étherium (mithril)",
+    "hardness": 55,
+    "tile": "CoreAssets:EtheriumMithrilPlate"
+}

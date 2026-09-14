@@ -1,0 +1,12 @@
+/**
+ * Decorative building block of Copper.
+ *
+ * TODO texture: Warm salmon-orange copper, freshly hammered. Engraved panels
+ * with a border. The tile is a tinted copy of Brick.
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "displayName": "Cuivre ouvragé",
+    "hardness": 22,
+    "tile": "CoreAssets:CopperOrnate"
+}

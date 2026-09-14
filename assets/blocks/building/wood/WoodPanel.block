@@ -1,0 +1,11 @@
+/**
+ * Wood panelling: planks laid vertically for walls and floors.
+ *
+ * TODO texture: Vertical boards with darker grooves. The tile is Plank
+ * turned a quarter.
+ */
+{
+    "basedOn": "CoreAssets:wood",
+    "displayName": "Lambris",
+    "tile": "CoreAssets:WoodPanel"
+}

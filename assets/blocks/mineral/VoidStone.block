@@ -1,0 +1,12 @@
+/**
+ * Void stone: what etherium is made from, the final material.
+ *
+ * TODO texture: Near-black violet rock with faint magenta light seeping from
+ * cracks. The tile is a recoloured copy of CopperOre.
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "displayName": "Pierre du néant",
+    "hardness": 40,
+    "tile": "CoreAssets:VoidStone"
+}

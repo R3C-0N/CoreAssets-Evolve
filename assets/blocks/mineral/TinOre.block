@@ -1,0 +1,12 @@
+/**
+ * Tin: the second metal of bronze, found in the same veins as copper.
+ *
+ * TODO texture: Pale silvery flecks in grey stone, less bright than silver.
+ * The tile is a recoloured copy of CopperOre.
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "displayName": "Minerai d'étain",
+    "hardness": 18,
+    "tile": "CoreAssets:TinOre"
+}

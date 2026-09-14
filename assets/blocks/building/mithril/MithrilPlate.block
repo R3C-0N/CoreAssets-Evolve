@@ -1,0 +1,12 @@
+/**
+ * Plain building block of Mithril.
+ *
+ * TODO texture: Feather-light silver with a soft blue glow, never tarnished.
+ * Riveted plates. The tile is a tinted copy of IronBar.
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "displayName": "Plaques de mithril",
+    "hardness": 45,
+    "tile": "CoreAssets:MithrilPlate"
+}

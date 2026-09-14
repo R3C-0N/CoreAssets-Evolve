@@ -1,0 +1,12 @@
+/**
+ * Plain building block of EtheriumAdamantine.
+ *
+ * TODO texture: Etherium born of adamantine: deep violet with a void-like
+ * shimmer. Riveted plates. The tile is a tinted copy of IronBar.
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "displayName": "Plaques de étherium (adamantine)",
+    "hardness": 55,
+    "tile": "CoreAssets:EtheriumAdamantinePlate"
+}

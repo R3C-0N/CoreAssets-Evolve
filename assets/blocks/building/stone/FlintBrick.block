@@ -1,0 +1,11 @@
+/**
+ * Flint bricks: the first stone building block worth the name.
+ *
+ * TODO texture: Dark blue-grey knapped flint set in pale mortar. The tile is
+ * a tinted copy of Brick.
+ */
+{
+    "basedOn": "CoreAssets:rock",
+    "displayName": "Briques de silex",
+    "tile": "CoreAssets:FlintBrick"
+}

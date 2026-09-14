@@ -1,0 +1,12 @@
+/**
+ * Plain building block of Adamantine.
+ *
+ * TODO texture: Near-black metal with dark reflections and diamond micro-
+ * crystals. Riveted plates. The tile is a tinted copy of IronBar.
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "displayName": "Plaques de adamantine",
+    "hardness": 45,
+    "tile": "CoreAssets:AdamantinePlate"
+}

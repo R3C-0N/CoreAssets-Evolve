@@ -1,0 +1,12 @@
+/**
+ * Plain building block of Orichalcum.
+ *
+ * TODO texture: Incandescent copper-gold, as if still warm from the sun.
+ * Riveted plates. The tile is a tinted copy of IronBar.
+ */
+{
+    "basedOn": "CoreAssets:mineral",
+    "displayName": "Plaques de orichalque",
+    "hardness": 45,
+    "tile": "CoreAssets:OrichalcumPlate"
+}
