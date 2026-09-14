@@ -6,5 +6,8 @@
     "tile": "CoreAssets:TallGrass2",
     "colorSource": "foliage_lut",
     "colorOffset": [0.7, 0.7, 0.7, 1.0],
-    "waving": true
+    "waving": true,
+    "entity": {
+        "prefab": "CoreAssets:TallGrass2Entity"
+    }
 }

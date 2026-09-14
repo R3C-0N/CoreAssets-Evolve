@@ -5,5 +5,8 @@
     "basedOn": "CoreAssets:plant",
     "tile": "CoreAssets:TallGrass1",
     "colorSource": "foliage_lut",
-    "waving": true
+    "waving": true,
+    "entity": {
+        "prefab": "CoreAssets:TallGrass1Entity"
+    }
 }
