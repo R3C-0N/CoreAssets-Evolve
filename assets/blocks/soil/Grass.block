@@ -11,8 +11,5 @@
     "colorSources": {
         "bottom": "default"
     },
-    "displayName": "Herbe",
-    "entity": {
-        "prefab": "CoreAssets:GrassEntity"
-    }
+    "displayName": "Herbe"
 }
