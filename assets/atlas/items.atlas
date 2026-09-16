@@ -30,7 +30,7 @@
       "gridDimensions": [8, 1],
       "gridOffset": [0, 144],
       "tileNames": [
-        "Stick", "Rope", "", "", "", "", "", ""
+        "Stick", "Rope", "Diamond", "", "", "", "", ""
       ]
     }
   ]
