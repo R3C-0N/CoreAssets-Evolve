@@ -3,5 +3,6 @@
  */
 {
     "basedOn": "CoreAssets:mineral",
+    "displayName": "Minerai de charbon",
     "tile": "CoreAssets:CoalOre"
 }
