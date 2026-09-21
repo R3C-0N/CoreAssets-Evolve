@@ -1,8 +1,9 @@
 /**
- * Don't fall in the lava! Well, at least not after it starts hurting
- * As a liquid this block likely gets some added stats here, like viscosity
- * Lava blocks may also differ in height? If they're stored in a flowing state
- * That might be an example of a meta-block - need more info than the byte ID
+ * Don't fall in the lava - a warmth of fifteen burns for eight a second.
+ * It runs half as far as water and is more than twice as thick to cross.
+ * Lava blocks do not differ in height: the flow solver keeps the distance
+ * from the source out of the block, in a four bit per-block data field,
+ * because the three data bytes of a full block are already its colour.
  */
 {
     "liquid": true,
@@ -11,6 +12,9 @@
     // And let all of that light be the orange of molten rock, not a flame's near white.
     "warmth": 15,
     "hardness": 0,
+    // Four blocks out from its source, and thick enough to wade at three eighths speed.
+    "flowRange": 4,
+    "viscosity": 10,
     "attachmentAllowed": false,
     "translucent": true,
     "targetable": false,

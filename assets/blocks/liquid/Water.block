@@ -5,6 +5,9 @@
     "liquid": true,
     "water": true,
     "hardness": 0,
+    // Eight blocks out from its source, and thin enough to swim through at three quarters speed.
+    "flowRange": 8,
+    "viscosity": 4,
     "attachmentAllowed": false,
     "translucent": true,
     "targetable": false,
