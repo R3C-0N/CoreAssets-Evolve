@@ -1,9 +1,10 @@
 /**
  * Don't fall in the lava - a warmth of fifteen burns for eight a second.
  * It runs half as far as water and is more than twice as thick to cross.
- * Lava blocks do not differ in height: the flow solver keeps the distance
- * from the source out of the block, in a four bit per-block data field,
- * because the three data bytes of a full block are already its colour.
+ * There is only ever this one lava block, whatever the surface looks like:
+ * the flow solver keeps the distance from the source out of the block, in a
+ * four bit per-block data field, and the mesher reads it back to slope the
+ * top. A block carries no state of its own to put it in.
  */
 {
     "liquid": true,
