@@ -8,6 +8,8 @@
     "liquid": true,
     // Let the lava shine!
     "luminance": 15,
+    // And let all of that light be the orange of molten rock, not a flame's near white.
+    "warmth": 15,
     "hardness": 0,
     "attachmentAllowed": false,
     "translucent": true,
