@@ -3,6 +3,6 @@
  */
 {
     "basedOn": "CoreAssets:rock2",
-    "displayName": "Basalt",
+    "displayName": "Basalte",
     "tile": "CoreAssets:Basalt"
 }

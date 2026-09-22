@@ -16,6 +16,14 @@
     // Four blocks out from its source, and thick enough to wade at three eighths speed.
     "flowRange": 4,
     "viscosity": 10,
+    // And water sets it. A source is inexhaustible, so quenching one is worth the harder stone; the
+    // tongue it fed only makes basalt, which is what basalt has always been here.
+    "coolsInto": "CoreAssets:Basalt",
+    "sourceCoolsInto": "CoreAssets:Obsidian",
+    // Seven is where a liquid stops burning whoever stands in it (CoreSampleGameplay's BURN_THRESHOLD),
+    // so the rule reads as it sounds: what does not burn sets. The engine cannot name that constant -
+    // it does not depend on the module - so the number is written out here.
+    "cooledBelow": 7,
     "attachmentAllowed": false,
     "translucent": true,
     "targetable": false,
