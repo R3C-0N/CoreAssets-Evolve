@@ -11,7 +11,7 @@
  * HardStone, and the normal map is HardStone's own.
  */
 {
-    "basedOn": "CoreAssets:rock2",
+    "basedOn": "CoreAssets:rock3",
     "displayName": "Obsidienne",
     "tile": "CoreAssets:Obsidian"
 }
